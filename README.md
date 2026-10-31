@@ -11,6 +11,7 @@ Outside research I make short science videos about genetics, and I am building *
 - Statistical analysis of plant breeding trials: linear mixed models, unbalanced and multi-year designs, heritability, genotypic values
 - Two-stage GWAS and the weighting of adjusted means from unbalanced field trials
 - Population genetics of crop germplasm collections: diversity, structure and subpopulations
+- Methods for computing core collections from germplasm panels, weighting phenotypes and genotypes together
 - Genomic prediction and marker-assisted selection for grain quality and freezing tolerance in durum wheat
 - Multi-trait selection indices and ideotype design for soybean (MGIDI, MTSI); rapid generation advancement
 - Crops: bread wheat, durum wheat and soybean
