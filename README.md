@@ -1,6 +1,6 @@
 ## Bio
 
-Plant geneticist from India, based in Moscow. I am a Junior Research Scientist at the Center for Bio and Medical Technologies, Skolkovo Institute of Science and Technology (Skoltech), where I also did my PhD (2021–2025) on the quantitative and molecular genetics of wheat and soybean. Before that I studied botany at Aligarh Muslim University (BSc, MSc).
+Plant geneticist from India, based in Moscow. I am a Research Scientist at the Center for Bio and Medical Technologies, Skolkovo Institute of Science and Technology (Skoltech), where I also did my PhD (2021–2025) on the quantitative and molecular genetics of wheat and soybean. Before that I studied botany at Aligarh Muslim University (BSc, MSc).
 
 My work sits between the field and the keyboard: multi-environment breeding trials, linear mixed models, genome-wide association studies (GWAS), genomic prediction and marker-assisted selection, with R as the main tool. Part of my time goes to the lab (DNA extraction, PCR, genotyping), the rest to writing the analysis code for the data that comes out of it. I care about analyses that someone else can run from start to finish, so my papers ship with their code and data.
 
